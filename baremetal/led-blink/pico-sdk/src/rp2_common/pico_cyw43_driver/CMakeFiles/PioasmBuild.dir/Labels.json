@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/2f34409dd831b32d237fa733be5ee28f/PioasmBuild.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/702918fa9632b930881f2443aa4bad17/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/8b246709d2a22432a4f074ff0a12a838/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/8b246709d2a22432a4f074ff0a12a838/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/8b246709d2a22432a4f074ff0a12a838/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/8b246709d2a22432a4f074ff0a12a838/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/8b246709d2a22432a4f074ff0a12a838/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/8b246709d2a22432a4f074ff0a12a838/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/8b246709d2a22432a4f074ff0a12a838/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

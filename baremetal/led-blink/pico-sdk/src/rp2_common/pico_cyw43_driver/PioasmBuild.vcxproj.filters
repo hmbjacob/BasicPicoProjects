@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\8b246709d2a22432a4f074ff0a12a838\PioasmBuild-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\8b246709d2a22432a4f074ff0a12a838\PioasmBuild-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\8b246709d2a22432a4f074ff0a12a838\PioasmBuild-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\8b246709d2a22432a4f074ff0a12a838\PioasmBuild-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\8b246709d2a22432a4f074ff0a12a838\PioasmBuild-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\8b246709d2a22432a4f074ff0a12a838\PioasmBuild-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\8b246709d2a22432a4f074ff0a12a838\PioasmBuild-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\702918fa9632b930881f2443aa4bad17\PioasmBuild-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\CMakeFiles\2f34409dd831b32d237fa733be5ee28f\PioasmBuild.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hmbja\git\pico\pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\hmbja\git\Rpi-Pico-Hello-World\baremetal\led-blink\pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\PioasmBuild" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{491E5418-811D-3C36-A5A5-F16C5954044D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

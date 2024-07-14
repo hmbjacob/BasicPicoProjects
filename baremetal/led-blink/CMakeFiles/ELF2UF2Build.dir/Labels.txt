@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/ELF2UF2Build
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/3ea629746c9802a0c6ce3149b2e91272/ELF2UF2Build.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/72f387f450da0a7fa33962928811023a/ELF2UF2Build-complete.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/c22a988cbc3801e7ebd521d6d1f17b43/ELF2UF2Build-build.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/c22a988cbc3801e7ebd521d6d1f17b43/ELF2UF2Build-configure.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/c22a988cbc3801e7ebd521d6d1f17b43/ELF2UF2Build-download.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/c22a988cbc3801e7ebd521d6d1f17b43/ELF2UF2Build-install.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/c22a988cbc3801e7ebd521d6d1f17b43/ELF2UF2Build-mkdir.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/c22a988cbc3801e7ebd521d6d1f17b43/ELF2UF2Build-patch.rule
+C:/Users/hmbja/git/Rpi-Pico-Hello-World/baremetal/led-blink/CMakeFiles/c22a988cbc3801e7ebd521d6d1f17b43/ELF2UF2Build-update.rule
