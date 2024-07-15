@@ -1091,9 +1091,9 @@ Discarded input sections
  .comment       0x00000000       0x4a CMakeFiles/do_nothing.dir/C_/Users/hmbja/git/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
  .ARM.attributes
                 0x00000000       0x2c CMakeFiles/do_nothing.dir/C_/Users/hmbja/git/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
- .text          0x00000000        0x0 C:\Users\hmbja\AppData\Local\Temp\ccwKOszd.o
- .data          0x00000000        0x0 C:\Users\hmbja\AppData\Local\Temp\ccwKOszd.o
- .bss           0x00000000        0x0 C:\Users\hmbja\AppData\Local\Temp\ccwKOszd.o
+ .text          0x00000000        0x0 C:\Users\hmbja\AppData\Local\Temp\ccgtfHJs.o
+ .data          0x00000000        0x0 C:\Users\hmbja\AppData\Local\Temp\ccgtfHJs.o
+ .bss           0x00000000        0x0 C:\Users\hmbja\AppData\Local\Temp\ccgtfHJs.o
  .data          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .text          0x00000000        0x0 c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-calloc.o)
@@ -1309,7 +1309,7 @@ LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../
 .boot2          0x10000000      0x100
                 0x10000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x10000000      0x100 C:\Users\hmbja\AppData\Local\Temp\ccwKOszd.o
+ .boot2         0x10000000      0x100 C:\Users\hmbja\AppData\Local\Temp\ccgtfHJs.o
                 0x10000100                __boot2_end__ = .
                 0x00000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
@@ -1852,7 +1852,7 @@ LOAD CMakeFiles/do_nothing.dir/C_/Users/hmbja/git/pico/pico-sdk/src/rp2_common/p
 LOAD CMakeFiles/do_nothing.dir/C_/Users/hmbja/git/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
 LOAD CMakeFiles/do_nothing.dir/C_/Users/hmbja/git/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
 LOAD CMakeFiles/do_nothing.dir/C_/Users/hmbja/git/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-LOAD C:\Users\hmbja\AppData\Local\Temp\ccwKOszd.o
+LOAD C:\Users\hmbja\AppData\Local\Temp\ccgtfHJs.o
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a
 LOAD c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
 START GROUP
@@ -1936,7 +1936,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x000004ec       0x2c CMakeFiles/do_nothing.dir/C_/Users/hmbja/git/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .ARM.attributes
-                0x00000518       0x22 C:\Users\hmbja\AppData\Local\Temp\ccwKOszd.o
+                0x00000518       0x22 C:\Users\hmbja\AppData\Local\Temp\ccgtfHJs.o
  .ARM.attributes
                 0x0000053a       0x1e c:/progra~2/gnuarm~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
