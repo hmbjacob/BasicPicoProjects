@@ -5,8 +5,9 @@ include(pico_sdk_import.cmake)
 
 set(PICO_TOOLCHAIN_PATH "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10")
 
-project(do_nothing C)
+project(do_nothing C CXX ASM)
 set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 
 # Initialize the SDK
 pico_sdk_init()
@@ -22,4 +23,3 @@ target_link_libraries(do_nothing
     )
 
 pico_add_extra_outputs(do_nothing)
-
